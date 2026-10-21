@@ -67,7 +67,3 @@ gcc main.c -o calculator
 - [ ] Add more mathematical operations
 - [ ] Improve the terminal interface
 - [ ] Organize the project into separate source and header files
-
-## About
-
-This is my
